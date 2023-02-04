@@ -6,3 +6,7 @@ May be home (location unknown)
 | Individual | Relationship |
 | ---------- | ------------ |
 |            |              |
+
+
+
+

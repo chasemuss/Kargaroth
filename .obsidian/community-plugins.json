@@ -7,5 +7,6 @@
   "templater-obsidian",
   "obsidian-admonition",
   "execute-code",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-git"
 ]
