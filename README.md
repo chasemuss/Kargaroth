@@ -7,7 +7,7 @@ This wiki was created with the tool [Obsidian](https://obsidian.md/). While not 
 This vault is stored in a git repository, so [Git](https://git-scm.com/) is necessary. To download it directly, [click here](https://git-scm.com/download/win) and install once the download is complete
 
 ## Configuration
-1) Navigate to [Silicon Bayou Repository](https://dev.azure.com/BeyondPlatform/Silicon%20Bayou/_git/Silicon%20Bayou) and clone the repository
+1) Navigate to [Kargaroth](https://github.com/chasemuss/Kargaroth/edit/main/README.md) and clone the repository
 2) Open Obsidian and _Open folder as Vault_, navigating to the folder where you placed the repository. You now have access to the base wiki. Further steps add additional functionality with add-ons. 
 3) Open Settings (gear in the bottom left)
 	1) Select "Core Plugins". Enable the option for "Slash Commands". This allows you to press "\\" and start typing commands, increasing efficiency. 
