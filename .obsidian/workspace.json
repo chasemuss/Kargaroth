@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other Notes/The Atlas of Creation.md",
+                "file": "Characters/NPCs/Rhys.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other Notes/The Atlas of Creation.md",
+                "file": "Characters/NPCs/Rhys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other Notes/The Atlas of Creation.md",
+                "file": "Characters/NPCs/Rhys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other Notes/The Atlas of Creation.md"
+                "file": "Characters/NPCs/Rhys.md"
               }
             }
           },
@@ -163,7 +163,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -172,20 +171,21 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "22e616967b87f758",
   "lastOpenFiles": [
+    "Other Notes/The Atlas of Creation.md",
+    "Connections.canvas",
+    "Untitled.canvas",
     "Characters/Player Characters/Meridian.md",
     "Characters/Gods/Fanera, the Book.md",
     "Characters/NPCs/Xinzounux.md",
     "Characters/Gods/Itris, the Tinkerer.md",
     "Characters/Gods/Cijun, the Defiler.md",
     "Characters/Gods/Chaos, the Infinity.md",
-    "Characters/Gods/Byvitar, the Trickster.md",
-    "Characters/Gods/Boaos, the Unknown Reaper.md",
-    "Characters/Gods/Aterna, the Wonderstruck.md",
-    "Characters/Gods/Acaria, the Jealous.md"
+    "Characters/Gods/Byvitar, the Trickster.md"
   ]
 }

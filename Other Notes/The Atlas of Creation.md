@@ -8,45 +8,13 @@
 - Rhys has/had the Tome of the Dead
 - Lily has the Tome of Reality
 
-## Codex of True Names
-| Tome Name          | Current Owner |
-| ------------------ | ------------- |
-| Tome of True Names | [[Meridian]]  | 
-
-# Codex of Evocation
-| Tome Name | Current Owner |
-| --------- | ------------- |
-| Tome of   |               |
-| Tome of   |               |
-| Tome of   |               |
-| Tome of   |               |
-| Tome of   |               |
-| Tome of   |               |
-
-# Codex of Conjuration
-| Tome Name | Current Owner |
-| --------- | ------------- |
-| Tome of   |               |
-| Tome of   |               |
-# Codex of Illusion
-| Tome Name | Current Owner |
-| --------- | ------------- |
-| Tome of   | [[Lykin]]     | 
-| Tome of   |               |
-# Codex of Necromancy
-| Tome Name      | Current Owner |
-| -------------- | ------------- |
-| Tome of Dead   | [[Rhys]]          |
-| Tome of Undead | [[Dalamar]]       | 
-# Codex of Abjuration
-| Tome Name | Current Owner |
-| --------- | ------------- |
-| Tome of   |               |
-| Tome of   |               |
-## Codex of the Elements
-| Tome Name | Current Owner |
-| --------- | ------------- |
-| Tome of   |               |
-| Tome of   |               |
-| Tome of   |               |
-| Tome of   |               |
+| Codex Name          | Tome Name          | Current Owner |
+| ------------------- | ------------------ | ------------- |
+| Codex of True Names | Tome of Time       | [[Meridian]]  |
+| Codex of True Names | Tome of Space      |               |
+|                     |                    | [[Lykin]]     |
+|                     | Tome of the Dead   | [[Rhys]]      |
+|                     | Tome of the Undead | [[Dalamar]]   |
+|                     |                    | [[Lily]]      |
+|                     | Tome of Lies       | [[Lolth]]     |
+| Tome of Shields     |                    |               |
