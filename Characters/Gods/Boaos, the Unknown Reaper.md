@@ -1,15 +1,12 @@
 ---
 alias: Boaos, The Grim Reaper
 ---
-
-Pronounciation: Bo-a-os
-
 # Description and Origin
-The only full god not a descendant of [[Chaos, the Infinity|chaos]]. Boaos was born a mortal one of [[Characters/Gods/Nutari, the Hidden Moon|Naturi]]’s first Tabaxi created. He studied endlessly, and became the most knowledgeable mortal on the plane. With so much knowledge he pushed the world forward with it. He came to know the triplets of magic quite well. Together the four of them pushed magic to new heights, and depths. Tabaxi aren’t considerably long lived. Boaos knew his day were growing short, but could not let go of the world. His thirst for more knowledge lead him down dark paths. Boaos became the first necromancer. He found a way to preserve his life, denying death. [[Characters/Gods/Ochena, the Gentle|Ochena]], the goddess of life, and at the time death was slighted. Creation had only just begun and already a mortal had denied his return to her. Ochena cursed Boaos with immortality. He would never find rest, there would never be peace. He would live on forever, as the collector of the dead. Many mortals are unaware of the story of Boaos. Though many still have temples to death. Generally considered nondenominational as all beings die regardless of race alignments or religion. Some still attribute the domain of Death to Ochena, though she forced it upon Boaos.
+The only full god not a descendant of [[Chaos, the Infinity|chaos]]. Boaos was born a mortal one of [[Characters/Gods/Nutari, the Hidden Moon|Naturi]]’s first Tabaxi created. He studied endlessly, and became the most knowledgeable mortal on the plane. With so much knowledge he pushed the world forward with it. He came to know the triplets of magic quite well. Together the four of them pushed magic to new heights, and depths. Tabaxi aren’t considerably long lived. Boaos knew his day were growing short, but could not let go of the world. His thirst for more knowledge lead him down dark paths. Boaos became the first necromancer. He found a way to preserve his life, denying death. [[Characters/Gods/Ochena, the Gentle|Ochena]], the goddess of life, and at the time death was slighted. Creation had only just begun and already a mortal had denied his return to her. [[Ochena, the Gentle|Ochena]] cursed Boaos with immortality. He would never find rest, there would never be peace. He would live on forever, as the collector of the dead. Many mortals are unaware of the story of Boaos. Though many still have temples to death. Generally considered nondenominational as all beings die regardless of race alignments or religion. Some still attribute the domain of Death to [[Ochena, the Gentle|Ochena]], though she forced it upon Boaos.
 
-Boaos was one of [[Xinzounux]]'s students and from Starmouth. 
+Boaos was one of [[Xinzounux]]'s students and from [[Starmouth]]. 
 
-He was the first lich and taught Xinzounux how to be a lich
+He was the first lich and taught [[Xinzounux]] how to be a lich
 # Domain
 - Death
 - Destiny
@@ -18,7 +15,7 @@ He was the first lich and taught Xinzounux how to be a lich
 # Creations
 - Necomancy as a school of magic
 - Magical Texts
-- The 8 Legendary Codices ([[]])
+- The 8 Legendary Codices ([[The Atlas of Creation]] perhaps?)
 - Zombies
 - Shadows
 - Ghouls
