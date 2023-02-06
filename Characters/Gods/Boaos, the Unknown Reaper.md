@@ -18,7 +18,7 @@ He was the first lich and taught Xinzounux how to be a lich
 # Creations
 - Necomancy as a school of magic
 - Magical Texts
-- The 8 Legendary Codices
+- The 8 Legendary Codices ([[]])
 - Zombies
 - Shadows
 - Ghouls

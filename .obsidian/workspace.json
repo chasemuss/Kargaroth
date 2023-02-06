@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/NPCs/Rhys.md",
+                "file": "Characters/Gods/Boaos, the Unknown Reaper.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/NPCs/Rhys.md",
+                "file": "Characters/Gods/Boaos, the Unknown Reaper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/NPCs/Rhys.md",
+                "file": "Characters/Gods/Boaos, the Unknown Reaper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/NPCs/Rhys.md"
+                "file": "Characters/Gods/Boaos, the Unknown Reaper.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   },
   "active": "22e616967b87f758",
   "lastOpenFiles": [
+    "Characters/NPCs/Rhys.md",
     "Other Notes/The Atlas of Creation.md",
     "Connections.canvas",
     "Untitled.canvas",
@@ -185,7 +186,6 @@
     "Characters/NPCs/Xinzounux.md",
     "Characters/Gods/Itris, the Tinkerer.md",
     "Characters/Gods/Cijun, the Defiler.md",
-    "Characters/Gods/Chaos, the Infinity.md",
-    "Characters/Gods/Byvitar, the Trickster.md"
+    "Characters/Gods/Chaos, the Infinity.md"
   ]
 }
