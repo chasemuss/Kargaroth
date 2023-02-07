@@ -47,8 +47,8 @@ Final Result:
 | Anything in his vault                       | Undeniable proof of Xinzounux being alive or dead |
 | Everything in the vault at time of delivery | Xinzounux's phylactery                            |
 | Tome from _Atlas of Creation_               | 1,000,000 Gold                                    |
-| Codex from _Atlas of Creation_              | 10,000,000 GP                                     |
-| Records of where Wolke Goods are            | Dalamar's Phylactery                              | 
+| Codex from _Atlas of Creation_              | 10,000,000 GP                                     | 
+| Records of where Wolke Goods are            | Dalamar's Phylactery                              |
 
 Have we heard of [[Great God War#The Legendary Hero Xinzounux.|Xinzounux]]? He tells us more information about him. 
 

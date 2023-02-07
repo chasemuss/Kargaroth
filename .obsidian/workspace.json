@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Gods/Boaos, the Unknown Reaper.md",
+                "file": "Important Events/6 In Y'llthnyr & Hell.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fate",
+                "query": "dalamar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Gods/Boaos, the Unknown Reaper.md",
+                "file": "Important Events/6 In Y'llthnyr & Hell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Gods/Boaos, the Unknown Reaper.md",
+                "file": "Important Events/6 In Y'llthnyr & Hell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Gods/Boaos, the Unknown Reaper.md"
+                "file": "Important Events/6 In Y'llthnyr & Hell.md"
               }
             }
           },
@@ -174,8 +175,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "27aa82891cef769d",
+  "active": "22e616967b87f758",
   "lastOpenFiles": [
+    "Characters/Gods/Boaos, the Unknown Reaper.md",
     "Characters/NPCs/Rhys.md",
     "Other Notes/The Atlas of Creation.md",
     "Connections.canvas",
@@ -184,7 +186,6 @@
     "Characters/Gods/Fanera, the Book.md",
     "Characters/NPCs/Xinzounux.md",
     "Characters/Gods/Itris, the Tinkerer.md",
-    "Characters/Gods/Cijun, the Defiler.md",
-    "Characters/Gods/Chaos, the Infinity.md"
+    "Characters/Gods/Cijun, the Defiler.md"
   ]
 }
