@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6d4d278e71a61643",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quest Log.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homepage.md",
+                "file": "Quest Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Homepage.md",
+                "file": "Quest Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Homepage.md"
+                "file": "Quest Log.md"
               }
             }
           },
@@ -175,8 +188,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "22e616967b87f758",
+  "active": "6d4d278e71a61643",
   "lastOpenFiles": [
+    "Homepage.md",
+    "Quest Log.md",
     "Important Events/6 In Y'llthnyr & Hell.md",
     "Characters/Gods/Boaos, the Unknown Reaper.md",
     "Characters/NPCs/Rhys.md",
@@ -184,8 +199,6 @@
     "Connections.canvas",
     "Untitled.canvas",
     "Characters/Player Characters/Meridian.md",
-    "Characters/Gods/Fanera, the Book.md",
-    "Characters/NPCs/Xinzounux.md",
-    "Characters/Gods/Itris, the Tinkerer.md"
+    "Characters/Gods/Fanera, the Book.md"
   ]
 }
