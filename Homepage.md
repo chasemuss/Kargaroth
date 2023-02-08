@@ -61,13 +61,6 @@ Lesser gods have a certain amount of power, though they gain and lose power base
 ---
 # Quest Log
 ## After Regrouping
-- [ ] Talk with Cinder (May not occur)
-- [ ] Talk with Lava and get information about [[Characters/Gods/Seraphina, the Balanced#Artifact - Ataraxia, the Dragonlance|Ataraxia]]
-- [ ] Descend to Hell for Wolke's Vault
-	- [ ] Get Knowledge of Hell from
-		- [ ] Teralis
-		- [ ] Niko
-		- [ ] Lava
 - [ ] Go to Chelicerata and fight Zicara
 	- [ ] Cinder may be best bet to get there
 	- [ ] We believe Wynfrid and Lykin's fathers are there
@@ -79,7 +72,7 @@ Lesser gods have a certain amount of power, though they gain and lose power base
 - [ ] Forge [[Aterna, the Wonderstruck|Aterna]]'s Greatsword
 	- [ ] Complete 3rd Quest (Currently Unknown)
 	- [ ] Go to the [[World Forge]] as or with a competent blacksmith
-		- [ ] [[Burflun]] is the Champion of [[Characters/Gods/Onryx, the World Forger|Onryx]] and may be able to assist. 
+		- [ ] [[Burflun]] is the Champion of [[Characters/Gods/Onryx, the World Forger|Onryx]] and may be able to assist. ([[Ulneth]] may be competing for that title though)
 - [ ] [[Drar'Gith|Drar]]'s Questline
 	- [ ] Collect information on [[Xinzounux]] for a reward, and his phylactery for all of the items in his vault
 	- [ ] Collect Tomes & Codicies to get gold to convert into items
