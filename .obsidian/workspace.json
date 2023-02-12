@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,7 +174,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "22e616967b87f758",
+  "active": "f2859bfb45af1d8a",
   "lastOpenFiles": [
     "Characters/Gods/Boaos, the Unknown Reaper.md",
     "Characters/NPCs/Rhys.md",
