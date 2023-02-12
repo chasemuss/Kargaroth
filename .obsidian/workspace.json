@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e95ab4629f15d3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Important Events/6 In Y'llthnyr & Hell.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Important Events/6 In Y'llthnyr & Hell.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Important Events/6 In Y'llthnyr & Hell.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -174,8 +187,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f2859bfb45af1d8a",
+  "active": "8e95ab4629f15d3d",
   "lastOpenFiles": [
+    "Important Events/6 In Y'llthnyr & Hell.md",
     "Characters/Gods/Boaos, the Unknown Reaper.md",
     "Characters/NPCs/Rhys.md",
     "Other Notes/The Atlas of Creation.md",
@@ -184,7 +198,6 @@
     "Characters/Player Characters/Meridian.md",
     "Characters/Gods/Fanera, the Book.md",
     "Characters/NPCs/Xinzounux.md",
-    "Characters/Gods/Itris, the Tinkerer.md",
-    "Characters/Gods/Cijun, the Defiler.md"
+    "Characters/Gods/Itris, the Tinkerer.md"
   ]
 }
