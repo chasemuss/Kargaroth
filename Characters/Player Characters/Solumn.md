@@ -15,6 +15,8 @@ In possession of [[Seraphina, the Balanced|Seraphina]]'s lance that she gave [[G
 Solumns original name is Moira. 
 
 Green Teiflings were Byvitar followers that were eradicated. 
+- Also have a connection to the Feywild
+- Yuan-Ti Descended as well
 
 Has a sister ([[Karma]])
 - She is very elusive

@@ -7,6 +7,7 @@ The only full god not a descendant of [[Chaos, the Infinity|chaos]]. Boaos was b
 Boaos was one of [[Xinzounux]]'s students and from [[Starmouth]]. 
 
 He was the first lich and taught [[Xinzounux]] how to be a lich
+- Involved sacrificing his eyes(?)
 # Domain
 - Death
 - Destiny

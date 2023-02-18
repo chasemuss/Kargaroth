@@ -9,3 +9,5 @@ Champion of multiple gods
 Married to [[Fanera, the Book|Fanera]]
 
 Rumors of offspring
+
+Teacher to [[Boaos, the Unknown Reaper|Boaos]] 

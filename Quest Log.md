@@ -20,6 +20,7 @@
 - [ ] [[Drar'Gith|Drar]]'s Questline
 	- [ ] Collect information on [[Xinzounux]] for a reward, and his phylactery for all of the items in his vault
 	- [ ] Collect Tomes & Codicies to get gold to convert into items
+- [ ] Go to the Magic Well
 
 ## Solumn
 - [ ] Get Byvitar's Artifact
