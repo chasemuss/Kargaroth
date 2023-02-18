@@ -17,4 +17,5 @@
 |                     | Tome of the Undead | [[Dalamar]]   |
 |                     |                    | [[Lily]]      |
 |                     | Tome of Lies       | [[Lolth]]     |
-| Tome of Shields     |                    |               |
+|                     | Tome of Shields    |               |
+

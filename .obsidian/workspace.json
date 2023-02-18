@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Important Events/6 In Y'llthnyr & Hell.md",
+                "file": "Other Notes/The Atlas of Creation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Important Events/6 In Y'llthnyr & Hell.md",
+                "file": "Other Notes/The Atlas of Creation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Important Events/6 In Y'llthnyr & Hell.md",
+                "file": "Other Notes/The Atlas of Creation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Important Events/6 In Y'llthnyr & Hell.md"
+                "file": "Other Notes/The Atlas of Creation.md"
               }
             }
           },
@@ -154,11 +154,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 430.5
+    "width": 430.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,15 +177,15 @@
   },
   "active": "22e616967b87f758",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Azrael_Monster_Stat_Block.png",
+    "Other Notes/The Atlas of Creation.md",
+    "Important Events/7 Starmouth.md",
     "Important Events/6 In Y'llthnyr & Hell.md",
+    "conflict-files-obsidian-git.md",
     "Characters/Gods/Boaos, the Unknown Reaper.md",
     "Characters/NPCs/Rhys.md",
-    "Other Notes/The Atlas of Creation.md",
     "Connections.canvas",
     "Untitled.canvas",
-    "Characters/Player Characters/Meridian.md",
-    "Characters/Gods/Fanera, the Book.md",
-    "Characters/NPCs/Xinzounux.md"
+    "Characters/Player Characters/Meridian.md"
   ]
 }
