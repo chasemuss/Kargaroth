@@ -52,12 +52,3 @@ Final Result:
 
 Have we heard of [[Great God War#The Legendary Hero Xinzounux.|Xinzounux]]? He tells us more information about him. 
 
-Known Tomes:
-- [[Lykin]]
-- [[Meridian]] - #Atlas_of_Creation/Book_of_True_Names/Tome_of_Space
-- [[Rhys]] had one
-- [[Dalamar]]
-- [[Lily]]
-
-
-

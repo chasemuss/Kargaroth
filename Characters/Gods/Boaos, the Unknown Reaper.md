@@ -27,14 +27,18 @@ He was the first lich and taught [[Xinzounux]] how to be a lich
 - Wraiths
 
 ## Artifact - The Omnipiercent Eyes
-- Current possessed by [[Wynfrid]]
+- Currently possessed by [[Wynfrid]]
 - Created by Boaos
+
+## Artifact - Collecter, Death's Reach
+- Currently possessed by [[Wynfrid]]
+
 # Followers
 Those choosing to serve the widely unknown god tend to be evil in nature, some however see death as a neutral event that befalls us all.
 
 Typically, necromantic cults, though the occasional sect of death wards guard the line between life and death. Followers communicate with Boaos through rituals and sacrifices typically. The strongest of followers may seek out his physical form in the shadow fell.
 ## Envoys
-Champion: 
+Champion: [[Wynfrid]]
 Voice: 
 # Notable Relationships
 | Individual | Relationship |

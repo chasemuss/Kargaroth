@@ -4,14 +4,13 @@
 - Tomes of elements in respective planes
 	- Currently held by some high ranking officials (not sure who exactly)
 
-| Codex Name            | Tome Name           | Current Owner |
-| --------------------- | ------------------- | ------------- |
-| Codex of True Names   | Tome of Time        | [[Meridian]]  |
-| Codex of True Names   | Tome of Space       |               |
-|                       |                     | [[Lykin]]     |
-| Codex of Life & Death | Tome of the Dead    | [[Dalamar]]   |
-| Codex of Life & Death | Tome of the Undeath | [[Dalamar]]   |
-|                       | Tome of Reality     | [[Lily]]      |
-|                       | Tome of Lies        | [[Lolth]]     |
-|                       | Tome of Shields     |               |
+| Codex Name          | Tome Name                          | Current Owner |
+| ------------------- | ---------------------------------- | ------------- |
+| Codex of True Names | Tome of Time                       | [[Meridian]]  |
+| Codex of True Names | Tome of Space                      |               |
+|                     |                                    | [[Lykin]]     |
+| Necronomicon        | Tome of the Dead & Tome of Undeath | [[Dalamar]]   |
+|                     | Tome of Reality                    | [[Lily]]      |
+|                     | Tome of Lies                       | [[Lolth]]     |
+|                     | Tome of Shields                    |               |
 
