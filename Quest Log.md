@@ -12,6 +12,7 @@
 ## Azrael
 - [ ] Forge [[Aterna, the Wonderstruck|Aterna]]'s Greatsword
 	- [ ] Complete 3rd Quest (Currently Unknown)
+		- [ ] Perhaps the Voice will know (Plane of Air)
 	- [ ] Go to the [[World Forge]] as or with a competent blacksmith
 		- [ ] [[Burflun]] is the Champion of [[Characters/Gods/Onryx, the World Forger|Onryx]] and may be able to assist. ([[Ulneth]] may be competing for that title though)
 
@@ -21,5 +22,8 @@
 	- [ ] Collect Tomes & Codicies to get gold to convert into items
 
 ## Solumn
+- [ ] Get Byvitar's Artifact
+- [ ] 
+
 
 ## Meridian

@@ -4,22 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "57936ab58c3df687",
-        "type": "tabs",
+        "id": "76be4ecc9b47a289",
+        "type": "split",
         "children": [
           {
-            "id": "22e616967b87f758",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Other Notes/The Atlas of Creation.md",
-                "mode": "source",
-                "source": false
+            "id": "5a19a98f0fd9bab3",
+            "type": "tabs",
+            "dimension": 50.71428571428571,
+            "children": [
+              {
+                "id": "a0793e99a52c1b81",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Quest Log.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "059972cba5d61325",
+            "type": "tabs",
+            "dimension": 49.28571428571429,
+            "children": [
+              {
+                "id": "02cf3af94ed3559e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Important Events/8 (Untitled).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -85,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other Notes/The Atlas of Creation.md",
+                "file": "Quest Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other Notes/The Atlas of Creation.md",
+                "file": "Quest Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other Notes/The Atlas of Creation.md"
+                "file": "Quest Log.md"
               }
             }
           },
@@ -175,17 +202,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "22e616967b87f758",
+  "active": "a0793e99a52c1b81",
   "lastOpenFiles": [
-    "Azrael_Monster_Stat_Block.png",
     "Other Notes/The Atlas of Creation.md",
+    "Important Events/8 (Untitled).md",
     "Important Events/7 Starmouth.md",
+    "Characters/NPCs/Rhys.md",
+    "Characters/NPCs/Pierre.md",
+    "Azrael_Monster_Stat_Block.png",
     "Important Events/6 In Y'llthnyr & Hell.md",
     "conflict-files-obsidian-git.md",
     "Characters/Gods/Boaos, the Unknown Reaper.md",
-    "Characters/NPCs/Rhys.md",
-    "Connections.canvas",
-    "Untitled.canvas",
-    "Characters/Player Characters/Meridian.md"
+    "Connections.canvas"
   ]
 }

@@ -70,3 +70,6 @@ Azrael:
 >I will, and I know what is good because I used to only work for evil.
 
 I leave and regroup with the others where we learn that Solumn is both the Voice & Champion of Byvitar, leading him to be the best shot at a vessel so far. To help his odds, we should find Byvitar's artifact, which is currently in [[Vera]]'s possession. 
+
+Solumn gets the following from the other party:
+>"This is the 2nd worst news that we have received today. We had the idea to try and see what Rhys was up to. Come to find out, he is dead and has been dead for the past year. It looks like him and his home town had a Meteor Shower hit much like Shilothgroth in the past. This is identical to the same Meteor Shower that Dalamar launched. Also, his book of undeath is missing and not with his buried body. Upon asking his soul questions, he stated that ==[[[Xinzounux]] and [[Dalamar]]== were responsible for him and his people's death. He stated that they promised him to help his people with a sickness across the town. But in the end, they killed him. This town is just north of the capital which lines up with your north statement. Dalamar is most likely now in that possession of the book of undead. We will be heading our way to Ishmanore tomorrow. -Lykin"
