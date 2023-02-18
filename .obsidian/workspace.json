@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 239.5,
+    "collapsed": true
   },
   "right": {
     "id": "209966a51fb411fd",
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Important Events/8 North-Bound.md",
+                "file": "Other Notes/The Atlas of Creation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Important Events/8 North-Bound.md",
+                "file": "Other Notes/The Atlas of Creation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Important Events/8 North-Bound.md"
+                "file": "Other Notes/The Atlas of Creation.md"
               }
             }
           },
@@ -166,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -187,10 +189,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a0793e99a52c1b81",
+  "active": "fe2b4d92567ee324",
   "lastOpenFiles": [
-    "Other Notes/The Atlas of Creation.md",
     "Important Events/8 North-Bound.md",
+    "Other Notes/The Atlas of Creation.md",
     "Important Events/7 Starmouth.md",
     "Characters/Gods/Boaos, the Unknown Reaper.md",
     "Characters/Gods/Cijun, the Defiler.md",
