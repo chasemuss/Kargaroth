@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other Notes/The Atlas of Creation.md",
+                "file": "Important Events/8 North-Bound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other Notes/The Atlas of Creation.md",
+                "file": "Important Events/8 North-Bound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other Notes/The Atlas of Creation.md"
+                "file": "Important Events/8 North-Bound.md"
               }
             }
           },
@@ -227,8 +227,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fe2b4d92567ee324",
+  "active": "02cf3af94ed3559e",
   "lastOpenFiles": [
+    "Other Notes/The Atlas of Creation.md",
     "Important Events/8 North-Bound.md",
     "Quest Log.md",
     "Important Events/7 Starmouth.md",
@@ -236,7 +237,6 @@
     "Characters/NPCs/Xinzounux.md",
     "Characters/Gods/Byvitar, the Trickster.md",
     "Characters/Player Characters/Solumn.md",
-    "Other Notes/The Atlas of Creation.md",
     "Characters/NPCs/Rhys.md",
     "Characters/NPCs/Pierre.md"
   ]
