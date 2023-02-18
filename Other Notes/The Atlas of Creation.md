@@ -26,4 +26,4 @@
 | The Book of True Names               | The Keeper's Tome (Tome of Summoning) |                              |
 | The Book of True Names               | Infinity Locus (Tome of Space)        | [[Meridian]]                 |
 
- [[Lykin]] has a tome, but it is unknown. Most likely _Tome of False Truths_
+ [[Lykin]] has a tome, but it is unknown. Most likely _Tome of False Truths_1
