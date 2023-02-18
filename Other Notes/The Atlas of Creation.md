@@ -20,7 +20,7 @@
 | Kyukyoku (Abjuration)                | Tome of Binding                       |                              |
 | Mangekyou (Enchantment)              | Glimmer (Tome of Charm)               |                              |
 | Mangekyou (Enchantment)              | Memoire (Tome of Mind)                |                              |
-| Necronomicon (Necromancy)            | Tome of the Dead & Tome of Undeath    | [[Dalamar]]                  |
+| ==Necronomicon (Necromancy)==            | ==Tome of the Dead & Tome of Undeath==    | [[Dalamar]]                  |
 | Opus Divine (Divination)             | Omen                                  |                              |
 | Opus Divine (Divination)             | Oracle                                |                              |
 | The Book of True Names               | The Keeper's Tome (Tome of Summoning) |                              |
