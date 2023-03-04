@@ -15,7 +15,7 @@ There are 2 imps that help upkeep her house
 Called a reborn by [[Sarada]]
 
 # Hell Reputation
-Drar's Doorman says, "Warrior, Conquerer, Fighter. She and Cinder were instrumental in the [[Blood Wars]]". 
+Drar's Doorman says, "Warrior, Conquerer, Fighter. She and Cinder were instrumental in the Blood Wars". 
 
 # Notable Relationships
 | Individual | Relationship |

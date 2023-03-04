@@ -25,7 +25,15 @@
 - [ ] [[Drar'Gith|Drar]]'s Questline
 	- [ ] Collect information on [[Xinzounux]] for a reward, and his phylactery for all of the items in his vault
 	- [ ] Collect Tomes & Codicies to get gold (to convert into items)
-
+```ad-note
+title: Proof of Xinzounux's Existance
+collapse: true
+- His Phylactery
+- His Body Parts (or body)
+- Dalamar (as prisoner)
+- Tome of Visions (see [[The Atlas of Creation]])
+- His Demiplane
+```
 ### Solumn
 - [ ] Get Byvitar's Artifact from Vera
 

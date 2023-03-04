@@ -1,3 +1,6 @@
+# Preceeding Events
+One of the major wars that led to the Great God War. Where [[Xinzounux]] got a lot of his power and created [[The Atlas of Creation]]. 
+
 # Main characters 
 Below are the champions that are not confirmed dead
 

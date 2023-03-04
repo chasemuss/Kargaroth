@@ -1,1 +1,0 @@
-One of the major wars that led to the [[Great God War]]. Where [[Xinzounux]] got a lot of his power and created [[The Atlas of Creation]]. 
