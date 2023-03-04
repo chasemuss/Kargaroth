@@ -15,3 +15,5 @@ Proof of Xin's existance
 - Tome of Visions (see [[The Atlas of Creation]])
 - His Demiplane
 
+After the frustration that is negotiating with Drar, we decide to teleport out and achieve a different goal. 
+
