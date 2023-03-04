@@ -15,5 +15,8 @@ Proof of Xin's existance
 - Tome of Visions (see [[The Atlas of Creation]])
 - His Demiplane
 
-After the frustration that is negotiating with Drar, we decide to teleport out and achieve a different goal. 
+After the frustration that is negotiating with Drar, we decide to teleport out and achieve a different goal and teleport to the [[Malachite League]]
 
+While there, we meet Cecelia, a master Diviner. I touch the Master Scrying Crystal Ball and see a large variety of Aterna centered foci. 
+
+We get to her office and tell her about [[Solumn]]'s relationship with [[Byvitar, the Trickster]]. 

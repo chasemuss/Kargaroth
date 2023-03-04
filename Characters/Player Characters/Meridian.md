@@ -1,6 +1,7 @@
 # Notes
 Halfling - Conjuration Wizard
 Plane-shifting guide. 
+Member of the [[Malachite League]]
 
 ## Tuning Forks
 - Hell
