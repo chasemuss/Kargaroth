@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Important Events/8 North-Bound.md",
+                "file": "Quest Log.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5,
-    "collapsed": true
+    "width": 216.5
   },
   "right": {
     "id": "209966a51fb411fd",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other Notes/The Atlas of Creation.md",
+                "file": "Quest Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other Notes/The Atlas of Creation.md",
+                "file": "Quest Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other Notes/The Atlas of Creation.md"
+                "file": "Quest Log.md"
               }
             }
           },
@@ -189,7 +187,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fe2b4d92567ee324",
+  "active": "a0793e99a52c1b81",
   "lastOpenFiles": [
     "Important Events/8 North-Bound.md",
     "Other Notes/The Atlas of Creation.md",
