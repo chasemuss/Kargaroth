@@ -19,4 +19,5 @@ After the frustration that is negotiating with Drar, we decide to teleport out a
 
 While there, we meet Cecelia, a master Diviner. I touch the Master Scrying Crystal Ball and see a large variety of Aterna centered foci. 
 
-We get to her office and tell her about [[Solumn]]'s relationship with [[Byvitar, the Trickster]]. 
+We get to her office and tell her about [[Solumn]]'s relationship with [[Byvitar, the Trickster]]. After that explanation, she starts scrying [[Vera]] and tells us that she is in a caravan with a [[Blue Crusade]] emblem. Cecelia then gives [[Meridian]] the knowledge of Vera's location. 
+
