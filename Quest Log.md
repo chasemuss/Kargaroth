@@ -1,4 +1,5 @@
 # Next Steps
+- [ ] Tag up with the other party. 
 - [ ] Elemental Plane of Air (if able)
 - [ ] Kill Dalamar
 

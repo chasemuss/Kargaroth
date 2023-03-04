@@ -23,7 +23,7 @@ We get to her office and tell her about [[Solumn]]'s relationship with [[Byvitar
 
 With that, Meridian tries to teleport us to Vera but throws us off course and we land in the ocean, with [[Azrael]] sinking us because he has the bronze armor. While sinking, Meridian cast teleport again and got us on target to Vera. We find her and Solumn talks with her in regards to her weapon. 
 
-She wants the following trade
+She wants the following trade:
 |     **She Gets**      |         **We Get**          |
 |:---------------------:|:---------------------------:|
 |       Ataraxia        | Twilight for the coming war | 
