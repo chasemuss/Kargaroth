@@ -1,6 +1,4 @@
 # Next Steps
-- [ ] Go to Drar
-- [ ] Get Byvitar's Weapon from Vera
 - [ ] Elemental Plane of Air (if able)
 - [ ] Kill Dalamar
 
