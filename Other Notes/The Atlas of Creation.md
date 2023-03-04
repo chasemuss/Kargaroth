@@ -6,10 +6,10 @@
 
 | Codex Name                           | Tome Name                             | Current Owner                |
 | ------------------------------------ | ------------------------------------- | ---------------------------- |
-| Codex Phantasm (Illusion)            | Tome of Lies (Trickery)               | [[Lolth]]                    |
-| Codex Phantasm (Illusion)            | Tome of False Truths (Illusion)       | (Most Likely) [[Lykin]]      |
-| Equinox (Transmutation)              | Alpha (Reality)                       | [[Lily]]                     |
-| Equinox (Transmutation)              | Omega (Time)                          |                              |
+| Codex Phantasm (Illusion)            | Tome of Lies (Tome of Trickery)               | [[Lolth]]                    |
+| Codex Phantasm (Illusion)            | Tome of False Truths (Tome of Illusion)       | (Most Likely) [[Lykin]]      |
+| Equinox (Transmutation)              | Alpha (Tome of Reality)                       | [[Lily]]                     |
+| Equinox (Transmutation)              | Omega (Tome of Time)                          |                              |
 | Grimoire of the Elements (Evocation) | Ignus (Tome of Fire)                  | High Ranking Fire Elemental  |
 | Grimoire of the Elements (Evocation) | Aquas (Tome of Water)                 | High Ranking Water Elemental |
 | Grimoire of the Elements (Evocation) | Terras (Tome of Earth)                | High Ranking Earth Elemental |
@@ -26,4 +26,4 @@
 | The Book of True Names               | The Keeper's Tome (Tome of Summoning) |                              |
 | The Book of True Names               | Infinity Locus (Tome of Space)        | [[Meridian]]                 |
 
- [[Lykin]] has a tome, but it is unknown. Most likely _Tome of False Truths_1
+[[Lykin]] has a tome, but it is unknown. Most likely _Tome of False Truths_
