@@ -9,10 +9,9 @@
 	- [ ] Cinder may be best bet to get there
 	- [ ] We believe Wynfrid and Lykin's fathers are there
 
-## Personal Goals
+# Personal Goals
 ### Clay
 - [ ] Kill [[Cijun, the Defiler|Cijun]]
-	- [ ] Find a way to get [[Characters/NPCs/Aurora|Aurora]] out of her contract
 	- [ ] Find a way to get [[Valdorn]] out of his contract
 
 ### Azrael

@@ -32,6 +32,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "cc46460842acfe7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "109107fabd359cb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Important Events/9.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 216.5,
+    "collapsed": true
   },
   "right": {
     "id": "209966a51fb411fd",
@@ -97,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quest Log.md",
+                "file": "Important Events/9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quest Log.md",
+                "file": "Important Events/9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quest Log.md"
+                "file": "Important Events/9.md"
               }
             }
           },
@@ -187,14 +206,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a0793e99a52c1b81",
+  "active": "109107fabd359cb1",
   "lastOpenFiles": [
+    "Quest Log.md",
+    "Important Events/9.md",
+    "Characters/Player Characters/Meridian.md",
     "Important Events/8 North-Bound.md",
     "Other Notes/The Atlas of Creation.md",
     "Important Events/7 Starmouth.md",
     "Characters/Gods/Boaos, the Unknown Reaper.md",
     "Characters/Gods/Cijun, the Defiler.md",
-    "Quest Log.md",
     "Characters/Player Characters/Wynfrid.md",
     "Important Events/6 In Y'llthnyr & Hell.md",
     "Characters/Player Characters/The Black Sun.jpg",
