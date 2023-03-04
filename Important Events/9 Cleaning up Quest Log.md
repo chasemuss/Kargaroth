@@ -6,4 +6,5 @@ We get the above message from Lykin and come up with the following plan:
 - Elemental Plane of Air (if able)
 - Go help the other team
 
-We teleport to hell and go to Drar's palace. 
+We teleport to hell and go to [[Drar]]'s palace. Drar does not believe us when we tell him that we saw [[Xinzounux]]. We challenge him on his doubts and he refuses to budge. 
+
