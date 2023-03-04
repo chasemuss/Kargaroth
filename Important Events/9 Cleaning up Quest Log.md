@@ -21,3 +21,5 @@ While there, we meet Cecelia, a master Diviner. I touch the Master Scrying Cryst
 
 We get to her office and tell her about [[Solumn]]'s relationship with [[Byvitar, the Trickster]]. After that explanation, she starts scrying [[Vera]] and tells us that she is in a caravan with a [[Blue Crusade]] emblem. Cecelia then gives [[Meridian]] the knowledge of Vera's location. 
 
+With that, Meridian tries to teleport us to Vera but throws us off course and we land in the ocean, with [[Azrael]] sinking us because he has the bronze armor. While sinking, Meridian cast teleport again and got us on target to Vera. We find her and Solumn talks with her in regards to her weapon. 
+
